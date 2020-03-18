@@ -1,4 +1,4 @@
-# Certificates Index
+# Certificates Index [![Python3.7](https://img.shields.io/badge/Python-3.7-orange.svg?style=flat-square)](https://www.python.org/downloads/release/python-370/)
 
 Simple script for getting validity dates and the SHA256 fingerprint of certificates.
 
