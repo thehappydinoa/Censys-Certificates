@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Simple script for getting validity dates and the sha256 fingerprint of certificates.
+Simple script for getting validity dates and the SHA256 fingerprint of certificates.
 """
 
 import csv
